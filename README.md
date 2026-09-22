@@ -90,6 +90,7 @@ The project is functional, but several areas still need polishing:
 - [ ] Improve mobile layout
 - [ ] Fix remaining build issues
 - [ ] Complete diagrams and theoretical documentation
+- [ ] adding password and email change feedback(send email to user)/email verification after change 
 
 These are mostly **polishing and documentation tasks rather than
 fundamental functionality**.
